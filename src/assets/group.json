@@ -1910,6 +1910,51 @@
       "value": "EOS",
       "name": "EOS",
       "label": "EOS"
+    },
+    {
+      "value": "GRT",
+      "name": "GRT",
+      "label": "Graph"
+    },
+    {
+      "value": "BAND",
+      "name": "BAND",
+      "label": "BAND"
+    },
+    {
+      "value": "ZEC",
+      "name": "ZEC",
+      "label": "ZCASH"
+    },
+    {
+      "value": "COMP",
+      "name": "COMP",
+      "label": "COMPOUND"
+    },
+    {
+      "value": "SKL",
+      "name": "SKL",
+      "label": "SKALE"
+    },
+    {
+      "value": "FORTH",
+      "name": "FORTH",
+      "label": "AMPLEFORTH"
+    },
+    {
+      "value": "DOGE",
+      "name": "DOGE",
+      "label": "DOGE"
+    },
+    {
+      "value": "DAI",
+      "name": "DAI",
+      "label": "DAI"
+    },
+    {
+      "value": "OGN",
+      "name": "OGN",
+      "label": "ORIGIN"
     }
   ]
 }
